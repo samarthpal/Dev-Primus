@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Dev-Primus/static/css/main.a0f63e9b.css",
+    "main.js": "/Dev-Primus/static/js/main.86beca8b.js",
+    "static/media/back.png": "/Dev-Primus/static/media/back.8deee80ac2a52b12792d.png",
+    "static/media/youtube.png": "/Dev-Primus/static/media/youtube.1ee2f39b02cee665a3e2.png",
+    "static/media/facebook.png": "/Dev-Primus/static/media/facebook.0d6ca15b859dca340ad1.png",
+    "static/media/instagram.png": "/Dev-Primus/static/media/instagram.c79c0d7ab601eda94c17.png",
+    "static/media/logo.png": "/Dev-Primus/static/media/logo.b907062aded14abbd796.png",
+    "index.html": "/Dev-Primus/index.html",
+    "main.a0f63e9b.css.map": "/Dev-Primus/static/css/main.a0f63e9b.css.map",
+    "main.86beca8b.js.map": "/Dev-Primus/static/js/main.86beca8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0f63e9b.css",
+    "static/js/main.86beca8b.js"
+  ]
+}
